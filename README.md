@@ -1,17 +1,17 @@
-#DBan Config Generator
+# DBan Config Generator
 A little utility program to generate server files at home.
 It generates configuration files for DHCP, ACLs, Bind and Nagios.
 	
-#Building
+# Building
 
 * To build, run:
 
     	ant
       
-#Running
+# Running
 
 <code>ant</code> will create a runnable jar file in /release
     
-#License
+# License
 
 This is under the GPLv3 license.
